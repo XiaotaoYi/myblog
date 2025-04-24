@@ -1,0 +1,25 @@
+Serving site at: http://0.0.0.0:80 - Tap CTRL-C to stop
+[18:11:45] INFO     "GET / HTTP/1.1" 200 -                         server.py:126
+[18:20:49] INFO     "HEAD / HTTP/1.1" 200 -                        server.py:126
+[18:20:52] INFO     "GET /images/WechatIMG396.jpg HTTP/1.1" 200 -  server.py:126
+           INFO     "GET /theme/css/main.css HTTP/1.1" 200 -       server.py:126
+           INFO     "GET /images/WechatIMG397.jpg HTTP/1.1" 200 -  server.py:126
+           INFO     "GET /images/WechatIMG398.jpg HTTP/1.1" 200 -  server.py:126
+           INFO     "GET /images/WechatIMG400.jpg HTTP/1.1" 200 -  server.py:126
+[18:20:53] INFO     "GET /images/WechatIMG399.jpg HTTP/1.1" 200 -  server.py:126
+[18:20:54] INFO     "GET /images/WechatIMG403.jpg HTTP/1.1" 200 -  server.py:126
+           INFO     "GET /images/WechatIMG405.jpg HTTP/1.1" 200 -  server.py:126
+           INFO     "GET /theme/css/reset.css HTTP/1.1" 200 -      server.py:126
+           INFO     "GET /theme/css/pygment.css HTTP/1.1" 200 -    server.py:126
+           INFO     "GET /theme/css/typogrify.css HTTP/1.1" 200 -  server.py:126
+           INFO     "GET /theme/css/fonts.css HTTP/1.1" 200 -      server.py:126
+           INFO     "GET /theme/fonts/Yanone_Kaffeesatz_400.woff   server.py:126
+                    HTTP/1.1" 200 -                                             
+[18:20:55] WARNING  Unable to find `/favicon.ico` or variations:   server.py:110
+                    /favicon.ico.html                                           
+                    /favicon.ico/index.html                                     
+                    /favicon.ico                                                
+80 was used, no need to start pelican...
+80 was used, no need to start pelican...
+80 was used, no need to start pelican...
+80 was used, no need to start pelican...
